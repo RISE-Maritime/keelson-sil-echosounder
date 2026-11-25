@@ -8,7 +8,7 @@ requires-python = ">=3.12"
 dependencies = [
     # PINNED EXACTLY to the build Slipway runs, so the two agree on every
     # payload, as keelson-sil-gnss pins it.
-    "keelson==0.6.0.dev21",
+    "keelson==0.6.0.dev27",
     "eclipse-zenoh>=1.2.1",
 ]
 
